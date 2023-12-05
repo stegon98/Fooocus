@@ -1,13 +1,14 @@
-AMD 5800X3D 
+AMD 5800X3D
 
 
 AMD RX7800XT
 
 
-SYSTEM ENDEVOUR 
+SYSTEM ENDEVOUR
 
 
 OS Kernel 6.6.4-arch1-1
+
 
 git clone https://github.com/lllyasviel/Fooocus.git
 cd Fooocus
